@@ -31,4 +31,7 @@ name = 'Bro'
 # print(name.isdigit())
 # print(name.isalpha())
 # print(name.replace('o','a'))
-print(name*3)
+# print(name*3)
+
+# type casting = convert the data type of a value to another data type.
+
